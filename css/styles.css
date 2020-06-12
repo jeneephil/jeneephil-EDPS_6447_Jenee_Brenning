@@ -2,13 +2,14 @@
 	font-family: "Montserrat", sans-serif;
 }
 body {
-	background: rgb(255, 255, 255);
-	background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(204, 204, 204, 1) 100%);
+	background-color: pink;
 }
 div.card,
 div.alert-warning {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 10px 0 rgba(0, 0, 0, 0.12);
 }
 .card-header {
+    font-family: fantasy;
+    font-size: 32px;
 	text-align: center;
 }
